@@ -88,3 +88,12 @@ body {
   left: 50%;
   transform: translateX(-50%);
 }
+
+.title {
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+ 
+  font-weight: bold;
+  margin-left: 20px; /* Adjust as needed */
+  transform: translate(20%, -1250%); /* Center the element */
+}
